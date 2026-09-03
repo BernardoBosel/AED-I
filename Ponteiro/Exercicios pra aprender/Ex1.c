@@ -14,7 +14,7 @@ void inverter(int *v, int n) {
     } 
 } 
 
-int main(void) { 
+int main() { 
     int v[] = {10, 20, 30, 40, 50}; 
     int n = 5; 
 
